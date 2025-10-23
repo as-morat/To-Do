@@ -6,7 +6,7 @@ This is my first Flutter project! It's very basic, but this marks the beginning 
 
 ## Screenshot
 
-![App Screenshot](img.png)
+<img src="img.png" alt="App Screenshot" style="width:50%">
 
 ---
 
